@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>All Summer Deals</key>
+	<dict>
+		<key>Loyalty Bonus!</key>
+		<string>Don&apos;t Pay Entrance Fee after 5th Entry!</string>
+		<key>All Day Benefit!</key>
+		<string>Get in before 12pm, pay %50 less Entrance Fee</string>
+		<key>VIP Card!</key>
+		<string>Join our VIP Club. GET Free Parking &amp; Free Entrance</string>
+		<key>Happy Hour Deal!</key>
+		<string>%30 off All Drinks after 6 pm</string>
+		<key>%25 Off Entry Fee</key>
+		<string>Monday to Thursday</string>
+	</dict>
+	<key>Weekly Deals</key>
+	<dict>
+		<key>Thursday Deal!</key>
+		<string>Friends Day. %50 Off Entry for groups more than 3 people.</string>
+		<key>Amazing Friday!</key>
+		<string>Get a Free Drink with your Entrance Ticket!</string>
+		<key>Free Parking Week!</key>
+		<string>Only for this Week!</string>
+		<key>Buy Meal - Drink Free</key>
+		<string>Each meal comes with a soft drink of your choice</string>
+		<key>Happy Wednesday - (07.16)</key>
+		<string>%30 Off All Drinks</string>
+	</dict>
+</dict>
+</plist>

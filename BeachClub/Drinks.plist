@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Shots</key>
+	<dict>
+		<key>300004</key>
+		<array>
+			<string>Jager Bomb</string>
+			<string>jagerBomb.png</string>
+			<string>Jager, Redbull</string>
+			<string>$6</string>
+		</array>
+		<key>300000</key>
+		<array>
+			<string>Cherry Tootsie Pops</string>
+			<string>cherryShot.png</string>
+			<string>Three Olives Chocolate Vodka, Red Bull and Grenadine</string>
+			<string>$7</string>
+		</array>
+		<key>300001</key>
+		<array>
+			<string>Jolly Rancher</string>
+			<string>jollyRancher.png</string>
+			<string>Apple Schnapps, Peach Schnapps and Cranberry Juice</string>
+			<string>$6</string>
+		</array>
+		<key>300002</key>
+		<array>
+			<string>B52 Flaming Shot</string>
+			<string>b52.png</string>
+			<string> Kahlua, Irish Cream and Amaretto</string>
+			<string>$9</string>
+		</array>
+		<key>300003</key>
+		<array>
+			<string>Alabama Slammer</string>
+			<string>alabamaSlammer.png</string>
+			<string>Southern Comfort, Amaretto and Cranberry Juice</string>
+			<string>$5</string>
+		</array>
+		<key>300005</key>
+		<array>
+			<string>Tequila Shot</string>
+			<string>tequilaShot.png</string>
+			<string>Tequila, Lemon/Orange , Salt</string>
+			<string>$5</string>
+		</array>
+	</dict>
+	<key>Cocktails</key>
+	<dict>
+		<key>500000</key>
+		<array>
+			<string>Long Island</string>
+			<string>longIsland.png</string>
+			<string>Tequile, Vodka, Light Rum</string>
+			<string>$15</string>
+		</array>
+		<key>500001</key>
+		<array>
+			<string>Mojito</string>
+			<string>mojito.png</string>
+			<string>White Rum, Mint</string>
+			<string>$12</string>
+		</array>
+		<key>500002</key>
+		<array>
+			<string>Cosmopolitan</string>
+			<string>cosmopolitan.png</string>
+			<string>Vodka Citron, Cointreau</string>
+			<string>$12</string>
+		</array>
+		<key>500003</key>
+		<array>
+			<string>Margarita</string>
+			<string>margarita.png</string>
+			<string>Tequila, Triple Sec, Lemon</string>
+			<string>$15</string>
+		</array>
+		<key>500004</key>
+		<array>
+			<string>Bloody Mary</string>
+			<string>bloodyMary.png</string>
+			<string>Vodka, Tomato, Juice, Celery Salt</string>
+			<string>$12</string>
+		</array>
+	</dict>
+	<key>Soft Drinks</key>
+	<dict>
+		<key>200000</key>
+		<array>
+			<string>Churchill</string>
+			<string>churchill.png</string>
+			<string>Soda, Lemon, Salt</string>
+			<string>$5</string>
+		</array>
+		<key>200001</key>
+		<array>
+			<string>Lemonade</string>
+			<string>lemonade.png</string>
+			<string>Lemon, Sugar</string>
+			<string>$7</string>
+		</array>
+		<key>200002</key>
+		<array>
+			<string>Coke</string>
+			<string>coke.png</string>
+			<string></string>
+			<string>$3</string>
+		</array>
+	</dict>
+</dict>
+</plist>
